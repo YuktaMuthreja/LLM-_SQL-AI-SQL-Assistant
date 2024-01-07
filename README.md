@@ -1,4 +1,4 @@
-# LLM-_SQL-AI-Assistant
+# LLM_SQL-AI-Assistant
 
 This project is a comprehensive Language Model (LLM) initiative utilizing Google Palm and Langchain. The objective is to create a system capable of interacting with a MySQL database. Users can pose questions in natural language, and the system responds by transforming those inquiries into SQL queries and subsequently executing them on the MySQL database. The dataset used for this project is derived from a sample retail store, which stores its inventory, sales, and discount information in the MySQL database. The following are some of the sample questions that it could ask:
 
